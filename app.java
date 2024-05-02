@@ -1,2 +1,2 @@
 Hello all
-welcome to RR Technosoft 
+Welcome to RR technosoft
